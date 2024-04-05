@@ -1,3 +1,4 @@
 # complete
 
-Start typing here...
+Format:
+`/heracles complete <quest id> <target>`

@@ -1,3 +1,4 @@
 # reset
 
-Start typing here...
+Format:
+`/heracles reset <quest id> <target>`

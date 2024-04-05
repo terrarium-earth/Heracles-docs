@@ -39,4 +39,5 @@
         <toc-element topic="reset.md"/>
         <toc-element topic="resetall.md"/>
     </toc-element>
+    <toc-element topic="Configuration.md"/>
 </instance-profile>

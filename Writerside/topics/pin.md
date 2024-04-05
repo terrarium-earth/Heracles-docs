@@ -1,3 +1,4 @@
 # pin
 
-Start typing here...
+Format:
+`/heracles pin <quest id>`

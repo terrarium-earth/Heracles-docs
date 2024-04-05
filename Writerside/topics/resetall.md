@@ -1,3 +1,4 @@
 # resetall
 
-Start typing here...
+Format:
+`/heracles resetall <target>`
