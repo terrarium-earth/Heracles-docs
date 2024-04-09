@@ -1,3 +1,0 @@
-# Loot Table
-
-Start typing here...

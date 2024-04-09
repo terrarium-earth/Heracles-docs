@@ -18,7 +18,7 @@ Allow the user to choose one of a selection of awards.
 > This reward type can only be made be editing the quest json directly. Here's how this would look:
 > 
 > ```json
-> "rewards: {
+> "rewards": {
 >   "example select reward": {
 >       "type": "heracles:selectable",
 >       "amount": 1,
