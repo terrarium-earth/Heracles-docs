@@ -70,4 +70,64 @@
         <description>Created after removal of "Select" from Help Instance</description>
         <accepts>Select.html</accepts>
     </rule>
+    <rule id="a33bfe9">
+        <description>Created after removal of "🌊Changed Dimension" from Help Instance</description>
+        <accepts>Changed-Dimension.html</accepts>
+    </rule>
+    <rule id="62d75325">
+        <description>Created after removal of "⌂ Structure" from Help Instance</description>
+        <accepts>Structure.html</accepts>
+    </rule>
+    <rule id="2a53d4b3">
+        <description>Created after removal of "★ Experience" from Help Instance</description>
+        <accepts>Experience.html</accepts>
+    </rule>
+    <rule id="6b7053ea">
+        <description>Created after removal of "☃ Dummy" from Help Instance</description>
+        <accepts>dummy.html</accepts>
+    </rule>
+    <rule id="640d7025">
+        <description>Created after removal of "🪓 Entity Interaction" from Help Instance</description>
+        <accepts>Entity-Interaction.html</accepts>
+    </rule>
+    <rule id="18d568b">
+        <description>Created after removal of "☀ Biome" from Help Instance</description>
+        <accepts>Biome.html</accepts>
+    </rule>
+    <rule id="3a425f0a">
+        <description>Created after removal of "🎣 Item Interaction" from Help Instance</description>
+        <accepts>Item-Interaction.html</accepts>
+    </rule>
+    <rule id="5f95ba03">
+        <description>Created after removal of "⛏️ Block Interaction" from Help Instance</description>
+        <accepts>Block-Interaction.html</accepts>
+    </rule>
+    <rule id="16e69b58">
+        <description>Created after removal of "🗡️ Kill Entity" from Help Instance</description>
+        <accepts>Kill-Entity.html</accepts>
+    </rule>
+    <rule id="706c0ae4">
+        <description>Created after removal of "🧪 Acquire Item" from Help Instance</description>
+        <accepts>Acquire-Item.html</accepts>
+    </rule>
+    <rule id="21d05c61">
+        <description>Created after removal of "✓ Advancement" from Help Instance</description>
+        <accepts>Advancement.html</accepts>
+    </rule>
+    <rule id="2ab422bd">
+        <description>Created after removal of "🪓 Recipe" from Help Instance</description>
+        <accepts>Recipe.html</accepts>
+    </rule>
+    <rule id="34ee2e44">
+        <description>Created after removal of "☑ Check" from Help Instance</description>
+        <accepts>Check.html</accepts>
+    </rule>
+    <rule id="64ea7026">
+        <description>Created after removal of "💪 Stat" from Help Instance</description>
+        <accepts>Stat.html</accepts>
+    </rule>
+    <rule id="7e2660f3">
+        <description>Created after removal of "Composite" from Help Instance</description>
+        <accepts>Composite.html</accepts>
+    </rule>
 </rules>

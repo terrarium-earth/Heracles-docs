@@ -6,33 +6,55 @@ Out-of-the-box, with no quest material and using the built-in theme, Heracles ma
 
 ![2024-04-06_09.08.44.png](2024-04-06_09.08.44.png)
 
-> The Edit Mode button will only show when in Creative mode or for players with OP access, or when cheats are enabled.
->
-> It is the pencil icon button just left of the close button with an X icon, top right.
+Here is an example with some quests in-place and some progress already made(indicated by the colored backgrounds of the quests with the log and map icons).
+
+![2024-04-09_16.58.42.png](2024-04-09_16.58.42.png)
+
+> The Edit Mode button—the pencil icon just left of the close button (X) top right—will only show when cheats are enabled, or you are in Creative mode, or on servers for players with OP access.
 >
 {style="tip"}
 
-Here is but one example of what players may see, once quests have been added: 
-
-![2024-04-09_11.10.43.png](2024-04-09_11.10.43.png)
-
-> Example shot from the modpack, "All Of Fabric 7", using a custom theme for Heracles. All rights reserved.
-> 
-{style="note"}
-
 ## For Editors
 
-When the Edit Mode button is clicked, Edit Mode becomes active and more buttons are displayed.
+### Buttons
+When Edit Mode is active, more buttons are displayed:
 
-![labeled_top_bar_buttons.png](labeled_top_bar_buttons.png)
+![labeled_top_bar_DL.png](labeled_top_bar_DL.png)
 
 From left to right, these buttons are:
 
-- The `New Group` button is for adding groups.
-- The `Select` tool is for selecting quests
+- `New Group`: for adding groups.
+- `Select` tool: for selecting quests
 
-- The `Import` button is for importing quest data
-- The `Edit Mode` button will leave, or enter, Edit Mode
-- The `Exit` button always exits Heracles and returns to Minecraft.
+- `Import`: for importing quest data
+- `Edit Mode`: for entering or leaving Edit Mode
+- `Exit` for exiting Heracles
+
+### Quest Settings
+When a quest is selected in Edit Mode, a panel of options for that quest appears on the right side:
+
+![2024-04-09_19.03.02.png](2024-04-09_19.03.02.png)
+
+Underneath the `Title`, `Position`, and `Subtitle` boxes, are five "Action" buttons.
+
+From left to right these buttons are:
+- `Change Icon`
+- `Change Icon Background`
+- `Change Dependencies`
+- `Delete`
+- `Edit Quest Settings`
+
+##### Options for `Hide Until`
+`Edit Quest Settings` itself brings up o pop-up box with five settings:
+
+![2024-04-09_19.09.52_copy_1.png](2024-04-09_19.09.52_copy_1.png)
+
+The options for `Hidden Until` may warrant explanation; the rest are fairly self-explanatory
+
+`Hidden Until` options are:
+- `Locked`: Always display this quest (don't hide it)
+- `In Progess`: Hide until dependencies are completed
+- `Completed`: Hide until _this quest itself_ is completed
+- `Parents Visible`: Hide this quest until it's dependencies are visible
 
 

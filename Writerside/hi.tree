@@ -11,21 +11,6 @@
     </toc-element>
     <toc-element topic="Single-Quest-View.md"/>
     <toc-element topic="Types-of-Tasks.md">
-        <toc-element topic="Changed-Dimension.md"/>
-        <toc-element topic="Structure.md"/>
-        <toc-element topic="Experience.md"/>
-        <toc-element topic="dummy.md"/>
-        <toc-element topic="Entity-Interaction.md"/>
-        <toc-element topic="Biome.md"/>
-        <toc-element topic="Item-Interaction.md"/>
-        <toc-element topic="Block-Interaction.md"/>
-        <toc-element topic="Kill-Entity.md"/>
-        <toc-element topic="Acquire-Item.md"/>
-        <toc-element topic="Advancement.md"/>
-        <toc-element topic="Recipe.md"/>
-        <toc-element topic="Check.md"/>
-        <toc-element topic="Stat.md"/>
-        <toc-element topic="Composite.md"/>
     </toc-element>
     <toc-element topic="Types-of-Rewards.md">
     </toc-element>

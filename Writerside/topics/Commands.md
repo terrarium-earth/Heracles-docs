@@ -2,7 +2,7 @@
 
 # complete
 Format:
-`/heracles complete <quest id> <target>`
+`/heracles complete <quest id> <player>`
 
 # pin
 Format:
@@ -10,8 +10,8 @@ Format:
 
 # reset
 Format:
-`/heracles reset <quest id> <target>`
+`/heracles reset <quest id> <player>`
 
 # resetall
 Format:
-`/heracles resetall <target>`
+`/heracles resetall <player>`
