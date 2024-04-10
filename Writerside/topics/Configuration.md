@@ -16,6 +16,6 @@ It has three options:
 
 1. `pinnedIndex`
 
-2. `showTutorial`: If this is "true", Heracles will display the [`tutorial.html`](Tutorial-html.md) file when it is opened in-game.
+2. `showTutorial`: If this is "true", Heracles will first display the tutorial.html file when Heracles is opened in-game.
 
 3. `maxEditorHistory`: defaults to 100

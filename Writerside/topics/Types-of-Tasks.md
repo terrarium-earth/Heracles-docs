@@ -1,7 +1,7 @@
 # Types of Tasks
-
-- Changed Dimension
-- Structure
+Heracles has several task types:
+- Changed Dimension: 
+- Structure: find the specified Structure
 - Experience
 - Dummy
 - Entity Integration
@@ -15,6 +15,24 @@
 - Check
 - Stat
 
-> There is one more task type, `heracles:composite`, that must be specified by editing a quest's json file directly. ... 
+> If the object you want to require with a task needs some NBT data to specify it correctly, you can do by editing the quest's underlying json file directly.
+> Here is an example of an Entity Interaction task that needs a Taiga type villager with a Cleric profession to complete:
+> 
+> ```json
+>     "tradejoe": {
+>      "type": "heracles:entity_interaction" 
+>      "entity": "minecraft:villager",
+>      "nbt": {
+>        "VillagerData": {
+>          "profession": "cleric",
+>          "type": "taiga"
+>        }
+>      },
+>    }
+> ```
+>
+{style="tip"}
+
+> There is one more task type, `heracles:composite`, that must be specified by editing a quest's json file directly. Such a task will complete if _any one_ of its child tasks completes—but currently there are restrictions on the set of child tasks it has.
 >
 {style="note"}
