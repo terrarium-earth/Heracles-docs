@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="27fccc7">
+        <description>Created after removal of "Entity Interaction" from Help Instance</description>
+        <accepts>Entity-Interaction.html</accepts>
+    </rule>
+    <rule id="75caed2e">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="3211bc3a">
+        <description>Created after removal of "groups.txt" from Help Instance</description>
+        <accepts>Groups-txt.html</accepts>
+    </rule>
+    <rule id="c335c2c">
+        <description>Created after removal of "tutorial.html" from Help Instance</description>
+        <accepts>Tutorial-html.html</accepts>
+    </rule>
+    <rule id="51222939">
+        <description>Created after removal of "Configuration File" from Help Instance</description>
+        <accepts>Configuration-File.html</accepts>
+    </rule>
+    <rule id="4a8fe740">
+        <description>Created after removal of "complete" from Help Instance</description>
+        <accepts>complete.html</accepts>
+    </rule>
+    <rule id="3a291248">
+        <description>Created after removal of "pin" from Help Instance</description>
+        <accepts>pin.html</accepts>
+    </rule>
+    <rule id="14cd2656">
+        <description>Created after removal of "reset" from Help Instance</description>
+        <accepts>reset.html</accepts>
+    </rule>
+    <rule id="18f4c17d">
+        <description>Created after removal of "resetall" from Help Instance</description>
+        <accepts>resetall.html</accepts>
+    </rule>
+    <rule id="6b987ece">
+        <description>Created after removal of "Group View for Players" from Help Instance</description>
+        <accepts>Group-View-for-Players.html</accepts>
+    </rule>
+    <rule id="4f9427ec">
+        <description>Created after removal of "Group View for Editors" from Help Instance</description>
+        <accepts>Group-View-for-Editors.html</accepts>
+    </rule>
+    <rule id="634428b1">
+        <description>Created after removal of "Experience" from Help Instance</description>
+        <accepts>ExperienceReward.html</accepts>
+    </rule>
+    <rule id="19e4fdcb">
+        <description>Created after removal of "Command" from Help Instance</description>
+        <accepts>Command.html</accepts>
+    </rule>
+    <rule id="6e3922f2">
+        <description>Created after removal of "Item" from Help Instance</description>
+        <accepts>Item.html</accepts>
+    </rule>
+    <rule id="64da6c68">
+        <description>Created after removal of "Loot Table" from Help Instance</description>
+        <accepts>Loot-Table.html</accepts>
+    </rule>
+    <rule id="5d6a8d59">
+        <description>Created after removal of "Select" from Help Instance</description>
+        <accepts>Select.html</accepts>
+    </rule>
+    <rule id="a33bfe9">
+        <description>Created after removal of "🌊Changed Dimension" from Help Instance</description>
+        <accepts>Changed-Dimension.html</accepts>
+    </rule>
+    <rule id="62d75325">
+        <description>Created after removal of "⌂ Structure" from Help Instance</description>
+        <accepts>Structure.html</accepts>
+    </rule>
+    <rule id="2a53d4b3">
+        <description>Created after removal of "★ Experience" from Help Instance</description>
+        <accepts>Experience.html</accepts>
+    </rule>
+    <rule id="6b7053ea">
+        <description>Created after removal of "☃ Dummy" from Help Instance</description>
+        <accepts>dummy.html</accepts>
+    </rule>
+    <rule id="640d7025">
+        <description>Created after removal of "🪓 Entity Interaction" from Help Instance</description>
+        <accepts>Entity-Interaction.html</accepts>
+    </rule>
+    <rule id="18d568b">
+        <description>Created after removal of "☀ Biome" from Help Instance</description>
+        <accepts>Biome.html</accepts>
+    </rule>
+    <rule id="3a425f0a">
+        <description>Created after removal of "🎣 Item Interaction" from Help Instance</description>
+        <accepts>Item-Interaction.html</accepts>
+    </rule>
+    <rule id="5f95ba03">
+        <description>Created after removal of "⛏️ Block Interaction" from Help Instance</description>
+        <accepts>Block-Interaction.html</accepts>
+    </rule>
+    <rule id="16e69b58">
+        <description>Created after removal of "🗡️ Kill Entity" from Help Instance</description>
+        <accepts>Kill-Entity.html</accepts>
+    </rule>
+    <rule id="706c0ae4">
+        <description>Created after removal of "🧪 Acquire Item" from Help Instance</description>
+        <accepts>Acquire-Item.html</accepts>
+    </rule>
+    <rule id="21d05c61">
+        <description>Created after removal of "✓ Advancement" from Help Instance</description>
+        <accepts>Advancement.html</accepts>
+    </rule>
+    <rule id="2ab422bd">
+        <description>Created after removal of "🪓 Recipe" from Help Instance</description>
+        <accepts>Recipe.html</accepts>
+    </rule>
+    <rule id="34ee2e44">
+        <description>Created after removal of "☑ Check" from Help Instance</description>
+        <accepts>Check.html</accepts>
+    </rule>
+    <rule id="64ea7026">
+        <description>Created after removal of "💪 Stat" from Help Instance</description>
+        <accepts>Stat.html</accepts>
+    </rule>
+    <rule id="7e2660f3">
+        <description>Created after removal of "Composite" from Help Instance</description>
+        <accepts>Composite.html</accepts>
+    </rule>
+</rules>
