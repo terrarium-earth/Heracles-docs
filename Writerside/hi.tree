@@ -3,7 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
+
+                 name="Heracles"
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>

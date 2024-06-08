@@ -29,5 +29,5 @@ Allow the user to choose one of a selection of awards.
 >   ...
 > }
 > ```
-> The vaule of the inner `rewards` key has the same structure as that of the outer `rewards` key that contains this example `heracles:selectable` reward. It will constitute the list of choices the player may select for this reward.
+> The value of the inner `rewards` key has the same structure as that of the outer `rewards` key that contains this example `heracles:selectable` reward. It will constitute the list of choices the player may select for this reward.
 {style="note"}
