@@ -1,8 +1,8 @@
 # Group View
 
-The Group View (aka Groups View) is the first screen presented when Heracles is opened.
+The Group View is the first screen presented when Heracles is opened.
 
-It has two sections, the Groups list in a sidebar on the left, and the main quest tree display for the currently selected Group.
+It has two sections: a list of Groups in a sidebar on the left, and the main quest tree display for the currently selected Group.
 
 You may click and drag in an empty space to move the quests display around.
 

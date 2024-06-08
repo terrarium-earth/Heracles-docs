@@ -32,7 +32,7 @@ From left to right these buttons are:
 - `Edit Quest Settings`
 
 ##### Options for `Hide Until`
-`Edit Quest Settings` itself brings up o pop-up box with five settings:
+The `Edit Quest Settings` action button brings up a pop-up box with five settings:
 
 ![2024-04-09_19.09.52_copy_1.png](2024-04-09_19.09.52_copy_1.png)
 

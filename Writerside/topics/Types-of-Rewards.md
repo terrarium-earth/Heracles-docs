@@ -1,7 +1,7 @@
 # Types of Rewards
 
 ## Item
-Rewards the player with an item. When creating such a reward, the item chooser pop-up allows picking an item from listing of item icons, specifying the item id directly, searching by tags, or using the item currently in the editor's hand.
+Rewards the player with an item. When creating such a reward, the item chooser pop-up allows picking an item either from a listing of item icons, specifying the item id directly, searching by tags, or by having the item currently in the editor's in-game hand.
 
 ## Experience
 Rewards the player with experience; amount may be specified with units of XP or Levels.
@@ -29,5 +29,5 @@ Allow the user to choose one of a selection of awards.
 >   ...
 > }
 > ```
-> The inner `rewards` key has the same structure as the outer `rewards` key that contains this example `heracles:selectable` reward. It will constitute the list of choices the player may select for this reward.
+> The vaule of the inner `rewards` key has the same structure as that of the outer `rewards` key that contains this example `heracles:selectable` reward. It will constitute the list of choices the player may select for this reward.
 {style="note"}

@@ -21,11 +21,12 @@ Heracles has several task types:
 >
 {style="warning"}
 
-> If the object you want to require with a task needs some NBT data to specify it correctly, you can do by editing the quest's underlying json file directly.
+> If the object you want to require with a task needs some NBT data to specify it correctly, you can do so by editing the quest's underlying json file directly.
+> 
 > Here is an example of an Entity Interaction task that needs a Taiga type villager with a Cleric profession to complete:
 > 
 > ```json
->     "tradejoe": {
+>     "traderjoe": {
 >      "type": "heracles:entity_interaction" 
 >      "entity": "minecraft:villager",
 >      "nbt": {

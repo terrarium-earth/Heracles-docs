@@ -1,6 +1,6 @@
 # Group View, for Players
 
-This is Heracles' main screen, the Group View. Some example quests are shown, with some progress already made—indicated by the colored backgrounds of the quests with the log and map icons.
+This is Heracles' main screen, the Group View. Some example quests are shown, with some progress already made—indicated by the colored backgrounds of the quests with the log and map icons in this example:
 
 ![2024-04-09_16.58.42.png](2024-04-09_16.58.42.png)
 
@@ -8,10 +8,10 @@ This is Heracles' main screen, the Group View. Some example quests are shown, wi
 
 Different textures for quest icon backgrounds are used to indicate progress state. In the default theme these are:
 
-- darker: quest is locked / has un-completed dependencies.
-- lighter: quest in un-locked / in-progress
-- orange: tasks achieved, reward(s) un-claimed.
-- green: quest is completed and reward(s) claimed.
+- `darker`: quest is locked / has un-completed dependencies.
+- `lighter`: quest in un-locked / in-progress
+- `orange`: tasks achieved, reward(s) un-claimed.
+- `green`: quest is completed and reward(s) claimed.
 
 ## Quest Groups
 
