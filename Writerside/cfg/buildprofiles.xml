@@ -1,0 +1,12 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <primary-color>iris</primary-color>
+        <custom-favicons>favicon.png</custom-favicons>
+        <download-title>Join our Discord</download-title>
+        <download-page>https://discord.terrarium.earth</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <og-image>http://images.teamresourceful.com/u/acs7Tq.png</og-image>
+        <og-twitter>@TerrariumEarth</og-twitter>
+    </variables>
+</buildprofiles>
