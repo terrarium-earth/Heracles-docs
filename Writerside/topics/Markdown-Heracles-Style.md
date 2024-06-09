@@ -10,7 +10,7 @@ Here is a brief synopsis of the Markdown formatting supported by Heracles in the
 - one list item
 - another list item
 
-> a block qoute formatted line)
+> a block qoute formatted line
 
 --italicized--
 
