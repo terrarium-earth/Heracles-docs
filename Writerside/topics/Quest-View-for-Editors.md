@@ -6,7 +6,7 @@ The overview editor, aka the quest description editor, has buttons for applying 
 
 Heracles also supports basic [_Markdown_-like](Markdown-Heracles-Style.md) syntax for easy formatting.
 
-> Please see the *[Hermes](https://docs.terrarium.earth/docs/hermes/intro)* documenatation to learn about the custom html-like markup language supported here.
+> Please see the *[Hermes](https://docs.terrarium.earth/docs/hermes/intro)* documenatation to learn about the custom html-like markup language also supported here.
 >
 {style="note"}
 

@@ -40,6 +40,6 @@ Heracles has several task types:
 >
 {style="tip"}
 
-> There is one more task type, `heracles:composite`, that must be specified by editing a quest's json file directly. Such a task will complete if _any one_ of its child tasks completes—but currently there are restrictions on the set of child tasks it has.
+> There is one more task type, `heracles:composite`, that must be specified by editing a quest's json file directly. Such a task will complete when any _X_ of its child tasks are complete (where _X_ is specified with the json key "amount")—but currently there are restrictions on the set of child tasks it can have.
 >
 {style="note"}
